@@ -8,11 +8,12 @@ I'm bignya23, a passionate developer from India. Welcome to my GitHub profile!
 
 ## What I'm Working On
 
+-C++, DSA, React, Web Development 
 - 🌱 I'm constantly learning and exploring new technologies and languages.
 
 ## My Skills
 
-- 💻 Programming Languages: JavaScript, Python, C, C++
+- 💻 Programming Languages: Python, C, C++
 
 Thanks for visiting my GitHub profile! 😊
 
