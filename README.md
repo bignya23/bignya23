@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm bignya, a passionate developer from India. Welcome to my GitHub profile!
+I'm Bignya, a passionate developer from India. Welcome to my GitHub profile!
 
 ## About Me
 
